@@ -1,1 +1,3 @@
-This is a super lengthy test document
+This is a super lengthy test document.
+
+I have a stranger today.
